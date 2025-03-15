@@ -24,7 +24,7 @@ Trade2SQL 是一个高效的数据库表结构转Go结构体工具，旨在简�
 
 ### 方法一：直接下载
 
-从[Releases](https://github.com/suhualin/trade2sql/releases)页面下载预编译的应用程序。
+从[Releases](https://github.com/994279206/trade2sql/releases)页面下载预编译的应用程序。
 
 ### 方法二：从源码构建
 
@@ -50,7 +50,7 @@ make package
 1. 克隆仓库
 
 ```bash
-git clone https://github.com/suhualin/trade2sql.git
+git clone git@github.com:994279206/trade2sql.git
 cd trade2sql
 ```
 
