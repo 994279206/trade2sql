@@ -1,0 +1,6 @@
+database:
+  type: mysql
+  connection: root:123456@tcp(192.168.110.239:13306)/datagrand
+generator:
+  package_name: model
+  tag_format: json,db,gorm
