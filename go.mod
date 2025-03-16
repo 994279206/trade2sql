@@ -6,9 +6,7 @@ toolchain go1.23.2
 
 require (
 	fyne.io/fyne/v2 v2.5.5
-	github.com/flopp/go-findfont v0.1.0
 	github.com/go-sql-driver/mysql v1.9.0
-	github.com/goki/freetype v1.0.5
 	github.com/lib/pq v1.10.9
 	github.com/mattn/go-sqlite3 v1.14.17
 	gopkg.in/yaml.v2 v2.4.0
